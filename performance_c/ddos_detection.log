@@ -1,0 +1,27 @@
+[2025-05-04 16:23:22] Arquivo de blocklist não encontrado. Criando nova blocklist.
+[2025-05-04 16:23:22] Sistema de detecção e mitigação de DDoS iniciando...
+[2025-05-04 16:23:22] Interface de rede: eth0
+[2025-05-04 16:23:22] Não foi possível abrir a interface eth0: eth0: You don't have permission to capture on that device (socket: Operation not permitted)
+[2025-05-04 16:24:17] Arquivo de blocklist não encontrado. Criando nova blocklist.
+[2025-05-04 16:24:17] Sistema de detecção e mitigação de DDoS iniciando...
+[2025-05-04 16:24:17] Interface de rede: eth0
+[2025-05-04 16:24:17] Iniciando captura de pacotes...
+[2025-05-04 16:26:23] Ataque detectado de 10.0.10.242 (múltiplas conexões: 102 conexões ativas)
+[2025-05-04 16:26:23] IP 10.0.10.242 adicionado e bloqueado imediatamente!
+[2025-05-04 16:26:24] Ataque detectado de 10.0.10.242 (múltiplas conexões: 102 conexões ativas)
+[2025-05-04 16:26:25] Ataque detectado de 10.0.10.242 (múltiplas conexões: 102 conexões ativas)
+[2025-05-04 16:26:26] Ataque detectado de 10.0.10.242 (múltiplas conexões: 102 conexões ativas)
+[2025-05-04 16:26:27] Ataque detectado de 10.0.10.242 (múltiplas conexões: 102 conexões ativas)
+[2025-05-04 16:26:28] Ataque detectado de 10.0.10.242 (múltiplas conexões: 102 conexões ativas)
+[2025-05-04 16:26:29] Ataque detectado de 10.0.10.242 (múltiplas conexões: 102 conexões ativas)
+[2025-05-04 16:26:30] Ataque detectado de 10.0.10.242 (múltiplas conexões: 102 conexões ativas)
+[2025-05-04 16:26:31] Ataque detectado de 10.0.10.242 (múltiplas conexões: 102 conexões ativas)
+[2025-05-04 16:26:32] Ataque detectado de 10.0.10.242 (múltiplas conexões: 102 conexões ativas)
+[2025-05-04 16:26:33] Ataque detectado de 10.0.10.242 (múltiplas conexões: 102 conexões ativas)
+[2025-05-04 16:26:34] Ataque detectado de 10.0.10.242 (múltiplas conexões: 102 conexões ativas)
+[2025-05-04 16:26:35] Ataque detectado de 10.0.10.242 (múltiplas conexões: 102 conexões ativas)
+[2025-05-04 16:26:36] Ataque detectado de 10.0.10.242 (múltiplas conexões: 102 conexões ativas)
+[2025-05-04 16:26:37] Ataque detectado de 10.0.10.242 (múltiplas conexões: 102 conexões ativas)
+[2025-05-04 16:26:38] Ataque detectado de 10.0.10.242 (múltiplas conexões: 102 conexões ativas)
+[2025-05-04 16:26:39] Ataque detectado de 10.0.10.242 (múltiplas conexões: 102 conexões ativas)
+[2025-05-04 16:26:40] Ataque detectado de 10.0.10.242 (múltiplas conexões: 102 conexões ativas)
