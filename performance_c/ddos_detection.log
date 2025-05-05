@@ -25,3 +25,15 @@
 [2025-05-04 16:26:38] Ataque detectado de 10.0.10.242 (múltiplas conexões: 102 conexões ativas)
 [2025-05-04 16:26:39] Ataque detectado de 10.0.10.242 (múltiplas conexões: 102 conexões ativas)
 [2025-05-04 16:26:40] Ataque detectado de 10.0.10.242 (múltiplas conexões: 102 conexões ativas)
+[2025-05-05 00:29:01] Blocklist carregada: 1 entradas.
+[2025-05-05 00:29:01] Aviso: Não foi possível bloquear IP 10.0.10.242 com nenhum firewall conhecido
+[2025-05-05 00:29:01] Certifique-se de estar executando como root/sudo
+[2025-05-05 00:29:01] Sistema de detecção e mitigação de DDoS iniciando...
+[2025-05-05 00:29:01] Interface de rede: eth0
+[2025-05-05 00:29:01] Não foi possível abrir a interface eth0: eth0: You don't have permission to capture on that device (socket: Operation not permitted)
+[2025-05-05 00:29:29] Blocklist carregada: 1 entradas.
+[2025-05-05 00:29:29] Sistema de detecção e mitigação de DDoS iniciando...
+[2025-05-05 00:29:29] Interface de rede: eth0
+[2025-05-05 00:29:29] Iniciando captura de pacotes...
+[2025-05-05 00:29:29] IP 10.0.10.242 desbloqueado (expirado).
+
